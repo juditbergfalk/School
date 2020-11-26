@@ -1,5 +1,5 @@
 Simulation 1: JB_Final_Project_Impact_Cratering1.ipynb
-Simulation 2: JB_Final_Project_Impact_Cratering1.ipynb
+Simulation 2: JB_Final_Project_Impact_Cratering2.ipynb
 
 Function library: Functions.py
 
